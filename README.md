@@ -1,10 +1,8 @@
-
 <div align="center">
 
-  <h1>🖼️ My Wallpapers</h1>
+# 🖼️ Wallpapers
 
-  <p>
-    Personal collection of wallpapers for clean and aesthetic desktop setups.
-  </p>
+Personal collection of wallpapers  
+for clean, minimal and aesthetic desktop setups.
 
 </div>
